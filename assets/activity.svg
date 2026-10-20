@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+<title id="title">Two public project repositories</title><desc id="desc">Two public GitHub project repositories, with a link to live activity on the profile.</desc>
+<rect x="1" y="1" width="1198" height="188" fill="#211a2c" stroke="#967bc7" stroke-opacity=".5" stroke-width="2"/>
+<path d="M42 34v122" stroke="#e7a6c7" stroke-width="4"/><text x="75" y="126" fill="#f1c4db" font-family="Arial,Helvetica,sans-serif" font-size="106" font-weight="700" letter-spacing="-6">02</text>
+<text x="238" y="80" fill="#f7f2fb" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" letter-spacing="2">PUBLIC PROJECT REPOSITORIES</text>
+<text x="241" y="122" fill="#c9bfd8" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="1">two public project repos · full contribution activity on GitHub</text>
+<path d="M985 48v86M1010 68h124M1010 95h92M1010 122h64" stroke="#ae9ce2" stroke-width="2" stroke-linecap="round"/><circle cx="985" cy="48" r="5" fill="#e7a6c7"/><circle cx="1134" cy="68" r="5" fill="#8dd5e7"/>
+</svg>

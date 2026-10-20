@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+<title id="title">NEATB — First Light</title><desc id="desc">A pink, lilac and blue sunrise with the word NEATB.</desc>
+<defs>
+ <linearGradient id="type" x1="0" y1="0" x2="1" y2=".2"><stop stop-color="#d66d9f"/><stop offset=".52" stop-color="#9a85dc"/><stop offset="1" stop-color="#5ba6ca"/></linearGradient>
+ <radialGradient id="sun" cx=".48" cy=".45" r=".66"><stop stop-color="#fff5fa"/><stop offset=".58" stop-color="#f5dff0"/><stop offset="1" stop-color="#d9e6fb"/></radialGradient>
+ <linearGradient id="orbit" x1=".08" x2=".92"><stop stop-color="#e8a6c4"/><stop offset=".58" stop-color="#a49be0"/><stop offset="1" stop-color="#86cce2"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8a78b3" stroke-opacity=".11" stroke-width="1"/></pattern>
+ <clipPath id="clip"><rect width="1280" height="460" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1280" height="460" fill="#fbf8fd"/><rect width="1280" height="460" fill="url(#grid)" opacity=".52"/>
+ <circle cx="1000" cy="195" r="255" fill="url(#sun)"/>
+ <circle cx="1000" cy="195" r="206" fill="none" stroke="#fff" stroke-opacity=".75" stroke-width="1.4"/>
+ <circle cx="1000" cy="195" r="242" fill="none" stroke="url(#orbit)" stroke-opacity=".64" stroke-width="1.2" stroke-dasharray="2 8"/>
+ <path d="M734 358c131-74 192-91 294-91s166 17 282 82" fill="none" stroke="url(#orbit)" stroke-opacity=".62" stroke-width="1.5"/>
+ <path d="M829 58c44 37 86 53 134 53 75 0 137-36 189-99" fill="none" stroke="#fff" stroke-opacity=".88" stroke-width="2"/>
+ <circle cx="874" cy="83" r="5" fill="#dc8db7"/><circle cx="1112" cy="112" r="4" fill="#76b8d3"/><circle cx="1180" cy="348" r="7" fill="#a28fda"/>
+ <path d="M70 87h84" stroke="#d99aba" stroke-width="3"/><circle cx="166" cy="87" r="3" fill="#8b7bc4"/>
+ <text x="184" y="94" fill="#72677e" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="4">FIRST LIGHT / PERSONAL INDEX</text>
+ <text x="53" y="273" fill="url(#type)" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="190" letter-spacing="-13">NEATB</text>
+ <path d="M70 303H676" stroke="#d8c9e4" stroke-width="1.4"/><path d="M70 303h95" stroke="url(#orbit)" stroke-width="4"/>
+ <text x="73" y="350" fill="#51475f" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="3">SOFTWARE  /  CHARACTERS  /  SYSTEMS</text>
+ <text x="1208" y="418" text-anchor="end" fill="#716981" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">SSLBS09 · 001</text>
+ <path d="M70 399h235" stroke="#e4dbea" stroke-width="1"/><circle cx="70" cy="399" r="3" fill="#d88caf"/>
+</g></svg>
