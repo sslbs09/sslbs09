@@ -24,18 +24,13 @@ A Windows tray tool that schedules planned requests through the locally installe
 
 ## 02 / Sussurro, in motion
 
-<table border="0" width="100%">
-  <tr>
-    <td width="34%" align="center" valign="middle">
-      <img src="./assets/sussurro-relax.gif" width="220" alt="Sussurro, in a natural idle loop with two fox ears, blue eyes, pink-gray hair, a white medical coat, dark tights, and a fluffy white-tipped tail." />
-    </td>
-    <td width="66%" valign="middle">
-      <h3>A small, real idle loop.</h3>
-      <p>2.8 seconds · transparent GIF · a soft blink and a gentle tail sway, rendered from the existing Spine rig.</p>
-      <p><a href="https://github.com/sslbs09/suzuran-pet">Meet her in Sussurro Pet ↗</a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/sussurro-relax.gif" width="240" alt="Sussurro, in a natural idle loop with two fox ears, blue eyes, pink-gray hair, a white medical coat, dark tights, and a fluffy white-tipped tail." />
+</p>
+
+<p align="center"><strong>A small, real idle loop.</strong><br />2.8 seconds · transparent GIF · soft blink, gentle tail sway, rendered from the existing Spine rig.</p>
+
+<p align="center"><a href="https://github.com/sslbs09/suzuran-pet">Meet her in Sussurro Pet ↗</a></p>
 
 ## 03 / About
 
